@@ -6,5 +6,7 @@ horny = [
   "Tu me donnes envie de te faire des choses >:3", "Toujours horny celle la",
   "Tu sais qu'une laisse t'irait si bien...",
   "Ca serait dommage de laisser une petite bottom comme toi toute horny et désespérée :eyes:",
-  "Ta bouche est inutilement vide, vient te mettre au travail ça te détendra."
+  "Ta bouche est inutilement vide, vient te mettre au travail ça te détendra.",
+  "Ta bouche est inutilement vide, vient te mettre au travail ça te détendra.",
+  "Envie de quoicoubaiser ?"
 ]
