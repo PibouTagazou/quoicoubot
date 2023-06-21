@@ -18,6 +18,8 @@ feur_like = {
   "FEUR7": "react"
 }
 
+pastabox = /stickers/{1120390316537675947}
+
 
 @client.event
 async def on_ready():
@@ -53,6 +55,9 @@ async def on_message(message):
 
   if message.content == "!bonk":
     await message.channel.send(<:bonk:1103028667505979402>)
+
+  if message.content == "!pastabox":
+    await message.channel.send(pastabox)
 
 
 if __name__ == "__main__":
