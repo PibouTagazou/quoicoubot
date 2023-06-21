@@ -51,6 +51,9 @@ async def on_message(message):
   if message.content == "!horny":
     await message.channel.send(choice(metadata.horny))
 
+  if message.content == "!bonk":
+    await message.channel.send(<:bonk:1103028667505979402>)
+
 
 if __name__ == "__main__":
 
